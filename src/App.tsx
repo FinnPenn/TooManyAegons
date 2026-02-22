@@ -1,4 +1,10 @@
 import Flow from "./Flow";
+import {
+  BaseNode,
+  BaseNodeContent,
+  BaseNodeHeader,
+  BaseNodeHeaderTitle,
+} from "@/components/base-node";
 
 export default function App() {
   return (
